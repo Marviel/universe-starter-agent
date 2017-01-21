@@ -16,6 +16,7 @@ It contains a basic implementation of the [A3C algorithm](https://arxiv.org/abs/
 * [opencv-python](https://pypi.python.org/pypi/opencv-python)
 * [numpy](https://pypi.python.org/pypi/numpy)
 * [scipy](https://pypi.python.org/pypi/scipy)
+* [golang](https://golang.org/)
 
 # Getting Started
 
